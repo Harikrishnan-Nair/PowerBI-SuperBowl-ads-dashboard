@@ -1,5 +1,6 @@
 # PowerBI-SuperBowl-ads-dashboard
 This is the data visualization project executed using powerBI for the data about ad views on different paltforms like TV and YouTube and the ad cost cost of it. 
+
 ![p1](https://github.com/Harikrishnan-Nair/PowerBI-SuperBowl-ads-dashboard/assets/95662379/1aae3428-fdce-431a-ad15-86a45c2d07c4)
 
 Key Insights:
